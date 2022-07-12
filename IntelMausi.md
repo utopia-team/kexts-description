@@ -2,7 +2,7 @@
 
 ###### Table extracted from [IntelMausi hw.h](https://github.com/acidanthera/IntelMausi/blob/master/IntelMausiEthernet/hw.h)
 
-| Vendor ID 	| Device ID 	| Descriptio                                                              	|
+| Vendor ID 	| Device ID 	| Description                                                             	|
 |-----------	|-----------	|-------------------------------------------------------------------------	|
 | 0x8086    	| 0x105E    	| 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) 	|
 | 0x8086    	| 0x105F    	| 82571EB Gigabit Ethernet Controller                                     	|
