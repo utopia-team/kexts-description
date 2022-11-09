@@ -2,9 +2,9 @@
 
 ###### Table extracted from [RealtekRTL8100 Info.plist]()
 
-| Vendor ID 	| Device ID 	| Description                           	|
-|-----------	|-----------	|---------------------------------------	|
-
+| Vendor ID 	| Device ID 	| Description 	|
+|---	|---	|---	|
+| `0x10ec` 	| `0x8136` 	| RTL810xE PCI Express Fast Ethernet controller 	|
 
 # Credits
 
