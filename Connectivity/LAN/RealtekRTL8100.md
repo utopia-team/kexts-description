@@ -1,6 +1,6 @@
 # Compatible PCI IDs
 
-###### Table extracted from [RealtekRTL8100 Info.plist]()
+###### Table extracted from [RealtekRTL8100 Info.plist](https://github.com/Mieze/RealtekRTL8100/blob/master/RealtekRTL8100/RealtekRTL8100-Info.plist)
 
 | Vendor ID 	| Device ID 	| Description 	|
 |---	|---	|---	|
